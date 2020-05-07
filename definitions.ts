@@ -6,7 +6,7 @@ export default function define(Blocks: Blockly.BlockDefinitions) {
           this.setPreviousStatement(true, null);
           this.setNextStatement(true, null);
           this.setColour("#0D2D6A");
-          this.setTooltip("Imports gigglebot library.");
+          this.setTooltip("Imports Minibit library.");
           this.setHelpUrl("");
         }
     };
