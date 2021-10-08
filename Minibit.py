@@ -1,4 +1,4 @@
-import microbit from *
+from microbit import *
 
 def helloWorld():
     display.scroll("Extension demo")
