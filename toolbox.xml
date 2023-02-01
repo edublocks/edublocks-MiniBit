@@ -1,4 +1,4 @@
-<category name="Minibit" colour="#0D2D6A" iconclass="blocklyTreeIconCustom robot">
+<category name="Minibit" colour="#0D2D6A" css-icon="customIcon fad fa-car">
 <label text="Minibit" web-class="myLabelStyle"></label>
  <block type="import_minibit"></block>
  <block type="minibit_init"></block>
